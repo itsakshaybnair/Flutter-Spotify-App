@@ -33,6 +33,9 @@ migrate_working_dir/
 .pub/
 /build/
 
+
+lib/core/configs/constants/app_urls.dart
+
 # Symbolication related
 app.*.symbols
 
